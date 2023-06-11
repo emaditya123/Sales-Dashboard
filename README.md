@@ -16,14 +16,12 @@
 
 # Learnings :-
 
-Incorporated data analysis
+-> Incorporated data analysis techniques
 
-techniques, specializing in time
+-> Specializing in time series analysis
 
-series analysis, to deliver valuable
+-> To deliver valuable insights
 
-insights, accurate sales forecasting,
+-> Accurate sales forecasting
 
-and interactive dashboard
-
-creation, driving business success.
+-> Interactive dashboard creation driving business success.
